@@ -1,1 +1,1 @@
-hi 1st line of file 
+i am editing the file so no previous data is there
