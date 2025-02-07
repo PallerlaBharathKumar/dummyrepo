@@ -1,1 +1,2 @@
 hi first time data in b.txt
+2nd line in b.txt
