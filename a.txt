@@ -1,1 +1,2 @@
 i am editing the file so no previous data is there
+addding 2nd line to a.txt
